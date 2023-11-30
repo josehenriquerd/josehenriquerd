@@ -1,4 +1,4 @@
-## Olá! Meu nome é <strong>José Henrique</strong>! 👋
+## Olá! Meu nome é <strong>José Henrique</strong>! 🧑‍💻
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
@@ -25,7 +25,7 @@ Graduando em Engenharia da Computação,
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 
 <p align="left">
-  💌 Sinta-se a vontade para entrar em contato: ⤵️
+ 📬 Contato: ⤵️
 </p>
 
 <a href="https://www.linkedin.com/in/josehenriquerds/" title="LinkedIn" target="_blank">
