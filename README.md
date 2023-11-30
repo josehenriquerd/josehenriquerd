@@ -28,11 +28,8 @@ Graduando em Engenharia da Computação,
   💌 Sinta-se a vontade para entrar em contato: ⤵️
 </p>
 
-<a href="https://www.linkedin.com/in/daniel-diego-ribeiro/" title="LinkedIn" target="_blank">
+<a href="https://www.linkedin.com/in/josehenriquerds/" title="LinkedIn" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-
-<a href="https://www.instagram.com/ribeiroo.dani/" title="Instagram" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <br>
 <br>
 <table>
@@ -40,14 +37,14 @@ Graduando em Engenharia da Computação,
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api?username=danieldribeiro&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
+        src="https://github-readme-stats.vercel.app/api?username=josehenriquerd&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
         alt="Github stats"
       />
     </td>
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieldribeiro&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=josehenriquerd&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github stats"
       />
     </td>
@@ -55,7 +52,7 @@ Graduando em Engenharia da Computação,
       <br />
       <img
         align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=danieldribeiro&theme=dark&hide_border=false"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=josehenriquerd&theme=dark&hide_border=false"
         alt="Github stats"
       />
     </td>
