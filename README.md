@@ -53,14 +53,6 @@
 
 ---
 
-## 🏆 Troféus do GitHub
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=josehenriquerd&column=8&theme=darkhub&no-frame=true&no-bg=true" alt="GitHub Trophies" />
-</div>
-
----
-
 ## 👀 Contador de Visitantes
 
 <p align="center">
@@ -68,4 +60,4 @@
 </p>
 
 ---
-
+>Ocellaris
